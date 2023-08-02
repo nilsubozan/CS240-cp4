@@ -1,0 +1,3 @@
+Load deneme.txt
+Show (466)214-7981
+Process othercom.txt
